@@ -72,8 +72,8 @@ function Pomodoro(props) {
             <div className="timer">{timerMinutes} : {timerSeconds}</div>
             <div>
                 <button onClick={playPause}>{setButtonPlay()}</button>
-                <button onClick={increaseMinutes}>+</button>
-                <button onClick={decreaseMinutes}>-</button>
+                <button onClick={increaseMinutes}>Add time</button>
+                <button onClick={decreaseMinutes}>Remove time</button>
                 <button onClick={resetTimer}>Reset</button>
             </div>
         </div>

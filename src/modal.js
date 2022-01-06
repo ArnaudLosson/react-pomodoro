@@ -7,7 +7,6 @@ export default function Modal(props) {
             <div className="modalContainer">
                 <p>Break Time, maybe a coffe?</p>
                 <button onClick={() => props.setModal(false)}>Close</button>
-                <button>Restart</button>
             </div>
         </div>
     )

@@ -26,8 +26,8 @@
 }
 
 .pomodoro button {
-  width: 30vh;
-  height: 7vh;
+  width: 15vh;
+  height: 5vh;
   margin: 0 1vw;
   font-weight: bolder;
   color: #fff;
@@ -75,8 +75,8 @@
 }
 
 .modal .modalContainer button {
-  width: 30vh;
-  height: 7vh;
+  width: 15vh;
+  height: 5vh;
   margin: 0 1vw;
   font-weight: bolder;
   color: #fff;
